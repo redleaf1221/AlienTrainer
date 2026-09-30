@@ -11,3 +11,7 @@ Cheat for game *Message From Aliens* demo.
 ## Usage
 
 (I'm tired.)
+
+## LICENSE
+
+AGPL-3.0
